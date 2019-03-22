@@ -31,8 +31,6 @@ Here the ranking we reached at the end of Extended Round
 
 Team name: **F\*\*kingKarma**
 
-\#F**kingKarma
-
 ## Authors
 Walter Anelli: [@Walter](https://github.com/vitowalteranelli/)
 
